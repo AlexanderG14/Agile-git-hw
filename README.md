@@ -1,5 +1,4 @@
 
 <h1>Alexander's Github Homework Assignment</h1>
-<h2> <a href="https://medium.com/@tipsnguts/how-to-be-a-productive-programmer-47cbc3c09b6a">Article I chose!  </a></h2>
-
-
+<h2> <a href="https://medium.com/@tipsnguts/how-to-be-a-productive-programmer-47cbc3c09b6a">Here is the article I chose!  </a></h2>
+<p> I believe this article is incredibly relevant to students who are studying Computer Science (CS) and specifically to those students who are thinking about going into the Software Development field.  Studying CS at college has taught me the basics of how to code and how simple algorithms work.  There has been a heavy emphasis on creating our own code in order to meet given specified testcases.  However, there is a lack of emphasis on learning to test our own code, as well as a lack of understanding as to how to assess third party code to determine whether it can be incorporated into our code.  While I believe it is important to learn the coding basics, I think that too much emphasis is placed on recreating the wheel.  I feel like this article provides an interesting perspective that very different from everything that we experienced in our college classes.  It is worth reading in order to understand a little more of what software development might truly be like. </p>
